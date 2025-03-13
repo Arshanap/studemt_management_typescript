@@ -1,0 +1,1 @@
+# studemt_management_typescript
